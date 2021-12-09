@@ -1,16 +1,13 @@
 body{
-    background-color: #00aaff;
+    background-color: #b0e5ff;
     text-align:center;
   }
   
   h1{
-    background-color: #ffffff;
+    
   }
   
   p{
     font-size: 18px;
-  }
-  
-  canvas{
-    border: thin solid red;
+ 
   }
