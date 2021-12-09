@@ -1,11 +1,16 @@
-body {
-
-background-color: rgba(163, 248, 230, 0.856);
-
-
-}
-
-a {
-
-    text-decoration:none;
-}
+body{
+    background-color: #00aaff;
+    text-align:center;
+  }
+  
+  h1{
+    background-color: #ffffff;
+  }
+  
+  p{
+    font-size: 18px;
+  }
+  
+  canvas{
+    border: thin solid red;
+  }
